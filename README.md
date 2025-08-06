@@ -30,7 +30,7 @@ Tomoe_VT is currently using the [Bliss Shader](https://github.com/X0nk/Bliss-Sha
 As stated above, Distant Horizons doesn't really play nice with Bliss Shader, but it's fine. Just place the Bliss Shader file into your minecraft shaders folder. Then, Launch Minecraft, go to video settings and locate the shaders option and select the Bliss Shader. These instructions work for most shaders.
 
 ### Regarding Lag
-There is a possibility that you may experience lag. Before reaching out to a member of the mod team, try increasing the amount of memory allocated to Minecraft. To do this, go into your **Minecraft Launcher**. Go to **Installations** and located the **Forge** profile. Then click **Edit Profile** and then **More Options**.
+There is a possibility that you may experience lag. Before reaching out to a member of the mod team, try increasing the amount of memory allocated to Minecraft. To do this, go into your **Minecraft Launcher**. Go to **Installations** and locate the **Forge** profile. Then click **Edit Profile** and then **More Options**.
 Where it says:
 
 > -Xmx2G -XX:+Unlock...
