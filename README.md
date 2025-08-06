@@ -17,6 +17,7 @@ Many of the mods included are for optimization purposes and seek to increase per
 
 This server is hosted by **Aternos**.
 ## Installation Instructions
+**THE FILE IS LOCATED IN THE DISCORD SERVER. IT WAS TOO LARGE TO POST TO GITHUB!!**
 In order to use these mods, you will first need to install **Forge Version 1.20.1** directly into folder where your minecraft launcher is located. The link is included [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html).
 
 Once you have downloaded the correct version of forge, you will need to unzip the modpack directly into your minecraft mods folder. Make sure the file is not too deep or the game will not be able to read the files.
