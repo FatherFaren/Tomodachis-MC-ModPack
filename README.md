@@ -7,7 +7,6 @@ Link to [Tomoe's Second Life Discord](https://discord.gg/cBb9kR6EJ3)
  - Installation Instructions
  - Shader Installation Instructions
 	 - Regarding Lag
- - Rules for the Minecraft Server
 ## About
 This is the official Tomoe_VT modpack for the Peter's Pastures Minecraft Server. You will only need to download **ONE** version of the modpack. If you wish to use the same shaders as Tomoe, you can download the Shader File separately. (The shader will cause an error with Distant Horizons, but this is fine. Just ignore it.)
 
